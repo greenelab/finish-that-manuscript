@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/greenelab/finish-that-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://greenelab.github.io/finish-that-manuscript/>.
-The permalink for this webpage version is <https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/>.
+The permalink for this webpage version is <https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://greenelab.github.io/finish-that-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`a3996f37bd88abb0424749504f7cf4e0930fa70c`](https://github.com/greenelab/finish-that-manuscript/commit/a3996f37bd88abb0424749504f7cf4e0930fa70c).
+[`5321213c6259c7a18c3935fbd7c22be68f04ded9`](https://github.com/greenelab/finish-that-manuscript/commit/5321213c6259c7a18c3935fbd7c22be68f04ded9).
