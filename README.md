@@ -1,4 +1,4 @@
-# Ten quick tips to finish that manuscript that's 90% complete
+# Ten simple rules to finish that manuscript that's 90% complete
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
