@@ -1,17 +1,17 @@
 {
   "pandoc": {
-    "title": "Ten quick tips to finish that manuscript that's 90% complete",
+    "title": "Ten simple rules to finish that manuscript that's 90% complete",
     "keywords": [
       "publishing",
       "perishing"
     ],
     "lang": "en-US",
-    "date-meta": "2022-03-29",
+    "date-meta": "2022-03-30",
     "author-meta": [
       "John Doe",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Ten quick tips to finish that manuscript that&#39;s 90% complete\" />\n<meta name=\"citation_title\" content=\"Ten quick tips to finish that manuscript that&#39;s 90% complete\" />\n<meta property=\"og:title\" content=\"Ten quick tips to finish that manuscript that&#39;s 90% complete\" />\n<meta property=\"twitter:title\" content=\"Ten quick tips to finish that manuscript that&#39;s 90% complete\" />\n<meta name=\"dc.date\" content=\"2022-03-29\" />\n<meta name=\"citation_publication_date\" content=\"2022-03-29\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/finish-that-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/finish-that-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Ten simple rules to finish that manuscript that&#39;s 90% complete\" />\n<meta name=\"citation_title\" content=\"Ten simple rules to finish that manuscript that&#39;s 90% complete\" />\n<meta property=\"og:title\" content=\"Ten simple rules to finish that manuscript that&#39;s 90% complete\" />\n<meta property=\"twitter:title\" content=\"Ten simple rules to finish that manuscript that&#39;s 90% complete\" />\n<meta name=\"dc.date\" content=\"2022-03-30\" />\n<meta name=\"citation_publication_date\" content=\"2022-03-30\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/finish-that-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/finish-that-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/finish-that-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -21,7 +21,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "March 29, 2022",
+    "date": "March 30, 2022",
     "randomize_author_order": false,
     "authors": [
       {
@@ -72,15 +72,15 @@
       "repo_slug": "greenelab/finish-that-manuscript",
       "repo_owner": "greenelab",
       "repo_name": "finish-that-manuscript",
-      "commit": "a3996f37bd88abb0424749504f7cf4e0930fa70c",
-      "triggering_commit": "a3996f37bd88abb0424749504f7cf4e0930fa70c",
-      "build_url": "https://github.com/greenelab/finish-that-manuscript/commit/a3996f37bd88abb0424749504f7cf4e0930fa70c/checks",
-      "job_url": "https://github.com/greenelab/finish-that-manuscript/actions/runs/2059778053"
+      "commit": "5321213c6259c7a18c3935fbd7c22be68f04ded9",
+      "triggering_commit": "5321213c6259c7a18c3935fbd7c22be68f04ded9",
+      "build_url": "https://github.com/greenelab/finish-that-manuscript/commit/5321213c6259c7a18c3935fbd7c22be68f04ded9/checks",
+      "job_url": "https://github.com/greenelab/finish-that-manuscript/actions/runs/2064621013"
     },
     "html_url": "https://greenelab.github.io/finish-that-manuscript/",
     "pdf_url": "https://greenelab.github.io/finish-that-manuscript/manuscript.pdf",
-    "html_url_versioned": "https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/",
-    "pdf_url_versioned": "https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/manuscript.pdf",
+    "html_url_versioned": "https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/",
+    "pdf_url_versioned": "https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/manuscript.pdf",
     "manubot_version": "0.5.2",
     "rootstock_commit": "9a22fab4497f80f501ea361d028f26888ad9d5a0",
     "manuscript_stats": {

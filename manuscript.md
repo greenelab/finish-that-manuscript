@@ -1,10 +1,10 @@
 ---
-title: Ten quick tips to finish that manuscript that's 90% complete
+title: Ten simple rules to finish that manuscript that's 90% complete
 keywords:
 - publishing
 - perishing
 lang: en-US
-date-meta: '2022-03-29'
+date-meta: '2022-03-30'
 author-meta:
 - John Doe
 - Jane Roe
@@ -14,12 +14,12 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Ten quick tips to finish that manuscript that&#39;s 90% complete" />
-  <meta name="citation_title" content="Ten quick tips to finish that manuscript that&#39;s 90% complete" />
-  <meta property="og:title" content="Ten quick tips to finish that manuscript that&#39;s 90% complete" />
-  <meta property="twitter:title" content="Ten quick tips to finish that manuscript that&#39;s 90% complete" />
-  <meta name="dc.date" content="2022-03-29" />
-  <meta name="citation_publication_date" content="2022-03-29" />
+  <meta name="dc.title" content="Ten simple rules to finish that manuscript that&#39;s 90% complete" />
+  <meta name="citation_title" content="Ten simple rules to finish that manuscript that&#39;s 90% complete" />
+  <meta property="og:title" content="Ten simple rules to finish that manuscript that&#39;s 90% complete" />
+  <meta property="twitter:title" content="Ten simple rules to finish that manuscript that&#39;s 90% complete" />
+  <meta name="dc.date" content="2022-03-30" />
+  <meta name="citation_publication_date" content="2022-03-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/finish-that-manuscript/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/finish-that-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/finish-that-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/finish-that-manuscript/v/a3996f37bd88abb0424749504f7cf4e0930fa70c/))
+([permalink](https://greenelab.github.io/finish-that-manuscript/v/5321213c6259c7a18c3935fbd7c22be68f04ded9/))
 was automatically generated
-from [greenelab/finish-that-manuscript@a3996f3](https://github.com/greenelab/finish-that-manuscript/tree/a3996f37bd88abb0424749504f7cf4e0930fa70c)
-on March 29, 2022.
+from [greenelab/finish-that-manuscript@5321213](https://github.com/greenelab/finish-that-manuscript/tree/5321213c6259c7a18c3935fbd7c22be68f04ded9)
+on March 30, 2022.
 </em></small>
 
 ## Authors
